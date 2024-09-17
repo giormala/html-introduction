@@ -2,6 +2,10 @@
 
 Welcome to the **HTML Introduction** project! This is a simple, personal webpage designed to showcase basic HTML skills and styling. This project is intended as an introduction to HTML and web design.
 
+## Live Preview
+
+You can view a live preview of this project [here](https://giormala.github.io/html-introduction/).
+
 ## Overview
 
 This project features a single-page website with the following sections:
